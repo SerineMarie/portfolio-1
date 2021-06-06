@@ -51,6 +51,7 @@ a {
 .itemCard {
   border: 2px solid var(--mediumblue);
   width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .ccp {
@@ -119,13 +120,11 @@ img {
 
 .spHeading {
   font-weight: 600;
-
   color: var(--semesterColor);
 }
 
 .peHeading {
   font-weight: 600;
-
   color: var(--examColor);
 }
 
